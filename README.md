@@ -1,3 +1,3 @@
 # GPPPassworDecrypt.py
 Python3
-Для спасения кота
+Для спасения кота (нет)
